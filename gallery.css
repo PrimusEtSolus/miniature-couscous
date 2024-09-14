@@ -1,0 +1,11 @@
+body{
+    background-image: url(gallerybackground.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+button{
+    border-radius: 25px;
+}

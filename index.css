@@ -1,0 +1,39 @@
+body{
+    background-image: url(indexbackground.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: aqua;
+    color: chocolate;
+    
+}
+p {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: rgb(188, 226, 50);
+    border-bottom-style: outset;
+  }
+
+h1 {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: rgb(188, 226, 50);
+}
+h2 {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: rgb(188, 226, 50);
+}
+footer{
+    text-align: center;
+}
+button{
+    border-radius: 25px;
+}
